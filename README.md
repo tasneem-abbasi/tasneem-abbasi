@@ -1,9 +1,8 @@
 # Hi there 🌱
 
-I'm Tasneem · MS in Applied Data Analytics @ Boston University · based in Chicago · building toward **data engineering & architecture for fintech**
+I'm Tasneem · MS in Applied Data Analytics @ Boston University · based in Chicago · building toward **data engineering & architecture**
 
-I care about how data moves through pipelines, warehouses, and the infrastructure that turns raw market and operational data into something legible. I have a strong interest in financial data and the systems behind it.
-
+I care about how data moves through pipelines, warehouses, and the infrastructure that turns raw market and operational data into something legible.
 ---
 
 ### 🔧 What I work with

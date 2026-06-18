@@ -1,24 +1,27 @@
-# Hi there 🌱
+# **Hi there 🌱**
 
-**I'm Tasneem** — MS in Applied Data Analytics @ Boston University · based in Chicago · building toward **data engineering & architecture for fintech**
+**I'm Tasneem** · MS in Applied Data Analytics @ Boston University · BS in Marketing (Innovation & Design Thinking) + MIS Minor, UIC · based in Chicago
 
-I care about how data moves through pipelines, warehouses, and the infrastructure that turns raw market and operational data into something a business can actually decide on. Strong interest in financial data and the systems behind it.
+I work on the engineering side of data. I care about modeling it, moving it through pipelines and warehouses, and turning raw data into something a business can actually decide on. I'm especially drawn to how data systems are designed: where data should live, how the pieces fit, and the tradeoffs behind those choices.
+
+I came to data through business and design, and I treat that as an edge. Design thinking is really just architecture applied earlier: start from the messy real-world question, then work back to the system that answers it. Right now I'm deepening SQL, data modeling, and the modern data stack, heading toward analytics and data engineering.
 
 ---
 
-### 🔧 What I work with
-- **Languages:** Python · SQL · R · Java
-- **Data & big data:** Spark · pandas / Polars · DuckDB · data modeling
-- **Cloud:** AWS (Certified — Cloud Foundations & Data Engineering)
+###  _What I work with_
+- **Languages:** Python (pandas) · SQL · R · Java
+- **Big data:** Spark · data modeling · warehouse & lake concepts
+- **Warehousing & cloud:** Snowflake · AWS (Certified — Cloud Foundations & Data Engineering)
+- **Exploring:** Polars · DuckDB
 
-### 🏗️ What I'm building
-> In progress — I'll link each repo as it goes public.
+###  _What I'm building_
+> In progress- I'll link each repo as it goes public
 
-- **Financial data pipeline** — scheduled ingestion of market data → S3 → transform → warehouse, with data-quality checks
-- **Big-data performance study** — pandas vs Polars vs DuckDB vs Spark on large financial datasets
+- **Data engine benchmark** — pandas vs Polars vs DuckDB vs Spark on large datasets
+- **Data pipeline** — scheduled ingestion → S3 → transform → warehouse, with data-quality checks
 
-### 🎓 Currently
-Between year 1 and 2 of grad school, deepening data engineering and the math/stats foundations behind quantitative finance.
+###  _Currently_
+Between year 1 and 2 of grad school, deepening my data engineering, big-data, and analytics skills.
 
-### 📫 Reach me
+###  _Reach me_
 [LinkedIn](https://www.linkedin.com/in/tasneem-abbasi) · tasneem.h.abbasi@gmail.com

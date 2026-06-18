@@ -1,23 +1,24 @@
 # Hi there 🌱
 
-I'm Tasneem · MS in Applied Data Analytics @ Boston University · based in Chicago · building toward **data engineering & architecture**
+**I'm Tasneem** — MS in Applied Data Analytics @ Boston University · based in Chicago · building toward **data engineering & architecture for fintech**
 
-I care about how data moves through pipelines, warehouses, and the infrastructure that turns raw market and operational data into something legible.
+I care about how data moves through pipelines, warehouses, and the infrastructure that turns raw market and operational data into something a business can actually decide on. Strong interest in financial data and the systems behind it.
+
 ---
 
 ### 🔧 What I work with
 - **Languages:** Python · SQL · R · Java
-- **Data & big data:** Spark · pandas · data modeling
-- **Cloud:** AWS (Certified in Cloud Foundations & Data Engineering)
+- **Data & big data:** Spark · pandas / Polars · DuckDB · data modeling
+- **Cloud:** AWS (Certified — Cloud Foundations & Data Engineering)
 
 ### 🏗️ What I'm building
-> In progress, I'll link each repo as it goes public.
+> In progress — I'll link each repo as it goes public.
 
-- **Financial data pipeline** - scheduled ingestion of market data → S3 → transform → warehouse, with data-quality checks
-- **Big-data performance study** - pandas vs Polars vs DuckDB vs Spark on large financial datasets
+- **Financial data pipeline** — scheduled ingestion of market data → S3 → transform → warehouse, with data-quality checks
+- **Big-data performance study** — pandas vs Polars vs DuckDB vs Spark on large financial datasets
 
 ### 🎓 Currently
-Between year 1 and 2 of grad school, deepening my data engineering, big-data, and analytics skills.
+Between year 1 and 2 of grad school, deepening data engineering and the math/stats foundations behind quantitative finance.
 
 ### 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/tasneem-abbasi) · tasneem.h.abbasi@gmail.com
